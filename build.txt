@@ -1,0 +1,6 @@
+displayName = Infernum Multiplayer patch
+author = kabaniery
+version = 0.1
+ModReferences = SubworldLibrary, InfernumMode
+
+dllReferences = SubworldLibrary\SubworldLibrary
