@@ -25,7 +25,6 @@ namespace InfernumMultiplayer.Content.InfernumOverrides
         {
             if (aggro_delay > 0)
             {
-                Main.NewText("Оно работает");
                 aggro_delay--;
                 return;
             }
